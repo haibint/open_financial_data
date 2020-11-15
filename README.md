@@ -1,8 +1,8 @@
 # Open Financial Data
 I am trying to create a completely free and community compiled financial data set.
+Feel free to download the completed dataset [here](https://github.com/haibint/open_financial_data/blob/main/data.csv)
 
 ## Dataset Documentation
-
 #### Field name: Company
 Company name of the stock
 
